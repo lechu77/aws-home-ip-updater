@@ -17,10 +17,10 @@
                 "ec2:ModifySecurityGroupRules"
             ],
             "Resource": [
-                "arn:aws:ec2:eu-south-2:024848440891:security-group/sg-0e62178f6d94e6afa",
-                "arn:aws:ec2:eu-south-2:024848440891:security-group-rule/sgr-034cc20fd7411261f",
-                "arn:aws:ec2:eu-south-2:024848440891:security-group-rule/sgr-065742a5c3b8da466",
-                "arn:aws:ec2:eu-south-2:024848440891:security-group-rule/sgr-0a9cad559ad18fd69"
+                "arn:aws:ec2:<REGION>:<ACCOUNT_ID>:security-group/sg-xxxxxxxxxxxxxxxxx",
+                "arn:aws:ec2:<REGION>:<ACCOUNT_ID>:security-group-rule/sgr-xxxxxxxxxxxxxxxxx",
+                "arn:aws:ec2:<REGION>:<ACCOUNT_ID>:security-group-rule/sgr-yyyyyyyyyyyyyyyyy",
+                "arn:aws:ec2:<REGION>:<ACCOUNT_ID>:security-group-rule/sgr-zzzzzzzzzzzzzzzzz"
             ]
         },
         {
